@@ -50,49 +50,49 @@ Realizaremos un ejemplo sencillo un famoso **"Hello World".**
 **1)** Ejecutamos **Intellij IDEA**
 
 
-![alt text](./screen1.png)
+![alt text](./screen/screen1.png)
 
 **2)** Creamos un nuevo proyecto
 
 
-![alt text](./screen2.png)
+![alt text](./screen/screen2.png)
 
 
 **Nos ubicamos en File**
 
 
-![alt text](./screen3.png)
+![alt text](./screen/screen3.png)
 
 **Vamos a New/project**
 
-![alt text](./screen4.png)
+![alt text](./screen/screen4.png)
 
 **Seleccionamos Kotlin/JVM | IDEA y Next**
 
-![alt text](./screen5.png)
+![alt text](./screen/screen5.png)
 
 **Colocamos un titulo al proyecto y clikiamos en finish**
 
-![alt text](./screen6.png)
+![alt text](./screen/screen6.png)
 
 **Dentro de la carpeta SRC creamos un nuevo archivo kotlin**
 
-![alt text](./screen7.png)
+![alt text](./screen/screen7.png)
 
 **Generemaos una funcion ***main*** la cual generara una maquina virtual**
 
-![alt text](./screen8.png)
+![alt text](./screen/screen8.png)
 
 **Dentro de la funcion ***main*** colocamos un ***println()*****
 
-![alt text](./screen9.png)
+![alt text](./screen/screen9.png)
 
 **Dentro del ***println()*** colocamos entre ***("")*** el texto que queremos insertar en la funcion en este caso ***Hello World*****
 
-![alt text](./screen10.png)
+![alt text](./screen/screen10.png)
 
 **Seleccionamos el boton de ***Start*****
 
-![alt text](./screen11.png)
+![alt text](./screen/screen11.png)
 
 **En la parte inferior aparecera una consola con nuestro ***Hello World*** impreso en la misma dandonos a saber que nuestra ***fun main()*** funciona**
